@@ -1,6 +1,6 @@
-.banner-gradient,
-.banner-gradient::before {
-    background: red !important;
+.elementor-24 .elementor-element.elementor-element-4e3e2d9a
+> .elementor-motion-effects-container
+> .elementor-motion-effects-layer {
     background-image: none !important;
-    opacity: 1 !important;
+    background: red !important;
 }

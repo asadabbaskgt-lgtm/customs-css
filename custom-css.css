@@ -1,6 +1,8 @@
-html body {
+.banner-gradient::before {
     background: red !important;
+    background-image: none !important;
 }
-.elementor-element.elementor-element-7335c025.elementor-widget.elementor-widget-text-editor {
-    color: aquamarine !important;
+
+.banner-gradient {
+    background: red !important;
 }

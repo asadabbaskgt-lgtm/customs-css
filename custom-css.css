@@ -1,8 +1,6 @@
+.banner-gradient,
 .banner-gradient::before {
     background: red !important;
     background-image: none !important;
-}
-
-.banner-gradient {
-    background: red !important;
+    opacity: 1 !important;
 }
